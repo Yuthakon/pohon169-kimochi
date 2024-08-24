@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://pohon169-kimochi.pages.dev/sitemap.xml
